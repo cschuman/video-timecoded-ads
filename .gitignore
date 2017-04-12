@@ -1,4 +1,4 @@
-# Web Dev #
+# Web Dev         #
 ###################
 node_modules
 dist
@@ -6,6 +6,9 @@ dist
 bower_components
 test/bower_components
 
+# Media           #
+###################
+*.mp4
 
 # Compiled source #
 ###################
